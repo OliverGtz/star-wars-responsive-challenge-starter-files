@@ -1,0 +1,23 @@
+body {
+	font-family: Roboto, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.top_header {
+	background-color: #f0bd35;
+	margin-bottom: 40px;
+}
+
+main > .row > div{
+	margin-bottom: 20px;
+}
+
+.card {
+	border: 1px solid #ddd;
+	background-color: #eee;
+}
+.card img {
+	width: 100%;
+}
+.card h2, .card p {
+	padding: 0 15px;
+}
